@@ -1,5 +1,7 @@
 # Grand-Strand-Systems
 
+I added the entire project as my final project included my improved code design and test strategy.
+
 ## How can I ensure that my code, program, or software is functional and secure?
 
 There are several steps that I can take to ensure my code is functional and secure. The first thing I check is to make sure there are no errors present in the codebase when I build the project. I then run the project to make sure the application can run without crashing. During this stage, I will manually the application. After the manual check, I write out my unit tests. These unit tests will check my code logic and verify that the correct output is produced when tested against specific inputs. 
